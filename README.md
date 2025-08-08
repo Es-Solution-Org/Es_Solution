@@ -24,11 +24,11 @@ We are guided by a set of core values that shape our culture, decision-making, a
 - *Customer Focus*: We prioritize our clients' needs, delivering personalized solutions that meet their unique goals and objectives.
 - *Continuous Learning*: We encourage ongoing learning, professional growth, and knowledge-sharing to stay ahead of the curve and deliver exceptional results.
 
-Website: [https://essolution-blog.com](https://essolution-blog.vercel.app)
+Website: [https://essolution.dev](https://essolution.dev)
 
 **Es Solution Docs** is a free-to-use resource that documents open web technologies.
 Our mission is to provide developers with the information they need to easily build projects on the web platform.
-The resources below describe how the site works, how we write documentation, the guidelines and conventions we follow, and how you can get involved. [Click here](https://essolution-blog.vercel.app/blog/home) to access our resources.
+The resources below describe how the site works, how we write documentation, the guidelines and conventions we follow, and how you can get involved. [Click here](https://essolution.dev/blog/home) to access our resources.
 
 - [Web development tutorials](/es_solution/tutorials)
   - : A curated list of tutorials on Es Solution Docs and learning materials for beginners, intermediate-level, or expert web developers.
@@ -49,7 +49,7 @@ The resources below describe how the site works, how we write documentation, the
     Learn about the history of Es Solution, the team working on Es Solution, our values, and our partners.
 
 ### Projects
-[Access our projects](https://essolution-blog.vercel.app/projects)
+[Access our projects](https://essolution.dev/projects)
 
 #### Bug 🐛
-Report a bug found to [essolution-blog.com/support](https://essolution-blog.vercel.app/feedback) 
+Report a bug found to [support.essolution.dev](https://support.essolution.dev) 
